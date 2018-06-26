@@ -20,6 +20,9 @@ h1 {
     font-size: 24px;
     font-weight: normal;
 }
+.fa-plus {
+    float: right;
+}
 input {
     font-size: 18px;
     background-color: #f7f7f7;
